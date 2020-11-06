@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-//¬вести действительное число x, вычислить и вывести.
+//Enter a real number X, calculate Y, and display it on the screen.
 //y = 11 * x^10 + 10 * x^9 + 9 * x^8 + ... + 2 * x + 1.
 int
 
